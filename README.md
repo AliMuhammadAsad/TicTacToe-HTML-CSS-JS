@@ -16,13 +16,15 @@ The website link can be found [here](https://alimuhammadasad.github.io/TicTacToe
 
 <div>
 
-**Tablet:** 
+**Tablet:**
+<br/><br/>
 <img src="screen_t.png"/> 
 </div>
 
 <div>
 
 **Mobile:**
+<br/><br/>
 <img src="screen_m.png"/>
 </div>
 
