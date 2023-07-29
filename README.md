@@ -4,12 +4,26 @@ This is a simple render of the classic `TicTacToe` we all love and play. The pro
 
 The rules are standard, nothing new there. 
 
+The website link can be found [here](https://alimuhammadasad.github.io/TicTacToe-HTML-CSS-JS/)
+
+## Screens
+
 <div>
-<h2>Screens</h2>
 
-**Desktop** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tablet:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Mobile:**
-<img src="screen.png" width="50%" align="left"/> <img src="screen_t.png" width="25%" align="left"/> <img src="screen_m.png" width="25%" align="left" />
+**Desktop**
+<img src="screen.png"/>
+</div>
 
+<div>
+
+**Tablet:** 
+<img src="screen_t.png"/> 
+</div>
+
+<div>
+
+**Mobile:**
+<img src="screen_m.png"/>
 </div>
 
 <div>
